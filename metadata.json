@@ -1,0 +1,7 @@
+{
+  "name": "GeoGemini Explorer",
+  "description": "An interactive map-based chatbot powered by Gemini. Ask about local places, get real-time search results, and visualize them on the map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
